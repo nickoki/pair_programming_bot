@@ -1,0 +1,45 @@
+body {
+	background: #000;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 18px;
+	text-align: center;
+	color: #fff;
+}
+
+h1 {
+	display: block;
+	margin-top: 2em;
+}
+
+a {
+	display: inline-block;
+	margin: 2em;
+	padding: 1.2em;
+	width: 2em;
+	text-decoration: none;
+	color: #fff;
+}
+
+.yes {
+	background: #8CC152;
+}
+
+.yes:hover {
+	background: #A0D468;
+}
+
+.no {
+	background: #DA4453;
+}
+
+.no:hover {
+	background: #ED5565;
+}
+
+.done {
+	background: #4A89DC;
+}
+
+.done:hover {
+	background: #5D9CEC;
+}
